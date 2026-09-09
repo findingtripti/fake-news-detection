@@ -211,14 +211,16 @@ The Streamlit application allows users to:
 
 ## Home Page
 
-![Home Page](assets/Home-page.png)
+![Home Page](assets/Home Page.png)
 
 ## Model Comparison
 
 ![Model Comparison](assets/model-comparison.png)
 
-# 📈 Future Improvements
+# 📈 Future Improvements 
 
+
+---
 - BERT/RoBERTa implementation
 - Explainable AI using SHAP
 - REST API with FastAPI

@@ -217,19 +217,6 @@ The Streamlit application allows users to:
 
 ![Model Comparison](assets/model-comparison.png)
 
-# 📈 Future Improvements 
-
-
----
-- BERT/RoBERTa implementation
-- Explainable AI using SHAP
-- REST API with FastAPI
-- Docker deployment
-- Multilingual Fake News Detection
-- Real-time News URL prediction
-
----
-
 # 🤝 Contributing
 
 Contributions are welcome.

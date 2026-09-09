@@ -207,17 +207,15 @@ The Streamlit application allows users to:
 
 ---
 
-# 📸 Screenshots
+# 📸 Screenshot
 
-### Home Page
+## Home Page
 
-> Add your Streamlit application screenshot here.
+![Home Page](assets/Home-page.png)
 
-### Model Comparison
+## Model Comparison
 
-> Add your accuracy comparison chart here.
-
----
+![Model Comparison](assets/model-comparison.png)
 
 # 📈 Future Improvements
 

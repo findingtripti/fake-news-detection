@@ -211,7 +211,7 @@ The Streamlit application allows users to:
 
 ## Home Page
 
-![Home Page](assets/Home Page.png)
+![Home Page](assets/Home-Page.png)
 
 ## Model Comparison
 
